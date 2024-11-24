@@ -1,0 +1,10 @@
+chaveAPI= AIzaSyDO4Sphxv3fy74TewKYn1o7vZ2RuU71PHk
+
+
+User= Junimonbr
+Senha= Pokemonbr123
+
+mongodb://Junimonbr:Pokemonbr123@Junimonbr/?ssl=true&replicaSet=atlas-60myjf-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
+
+
+mongodb+srv://Junimonbr:pokemonbr123@cluster0.nwgwi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
